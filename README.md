@@ -1,5 +1,18 @@
  📊 Global Sales Market Performance Dashboard  
 
+ ## 📑 Table of Contents
+- [Project Overview](#-project-overview)
+- [Project Objectives](#-project-objectives)
+- [Tools & Skills Used](#-tools--skills-used)
+- [Hyperlink-Based Navigation](#-hyperlink-based-navigation-core-feature)
+- [Key Insights Covered](#-key-insights-covered)
+- [Project Structure](#-project-structure)
+- [Dashboard Preview](#-dashboard-preview)
+- [How to Use](#-how-to-use)
+- [Business Value](#-business-value)
+- [About Me](#-about-me)
+
+
 
 An interactive **Excel-based sales analytics dashboard** designed to analyze **global sales performance, market trends, customer insights, and profitability** using advanced Excel features and dynamic hyperlinks for easy navigation.
 
