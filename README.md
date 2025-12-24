@@ -64,7 +64,12 @@ Global-Sales-Market-Performance-Dashboard/
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](.png)
+
+![Dashboard View 1](Total_Sale.png)
+![Dashboard View 2](Market_Share.png)
+![Dashboard View 3](Total_Profit.png)
+![Dashboard View 4](Total_units.png)
+![Dashboard View 5](Total_Customers.png)
 
 ---
 
@@ -73,7 +78,7 @@ Global-Sales-Market-Performance-Dashboard/
    👉 [Download Repository](https://github.com/abhishekdud430/Global-Sales-Market-Performance-Dashboard)
 
 2. Open the Excel dashboard file  
-   👉 Global_Sales_Market_Performance_Dashboard.xlsx
+   Global_Sales_Market_Performance_Dashboard.xlsx
 
 3. Use **Hyperlinks** to navigate between reports and views  
 
