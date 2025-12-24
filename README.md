@@ -78,7 +78,7 @@ Global-Sales-Market-Performance-Dashboard/
    👉 [Download Repository](https://github.com/abhishekdud430/Global-Sales-Market-Performance-Dashboard)
 
 2. Open the Excel dashboard file  
-   Global_Sales_Market_Performance_Dashboard.xlsx
+   Open 📥 [Download Excel Dashboard](Global_Sales_Market_Performance_Dashboard.xlsx) 
 
 3. Use **Hyperlinks** to navigate between reports and views  
 
@@ -100,7 +100,7 @@ Aspiring **Data Analyst** with hands-on experience in **Excel, SQL, Power BI, an
 Passionate about transforming raw data into meaningful insights.
 
 🔗 **GitHub:** https://github.com/abhishekdud430  
-🔗 **LinkedIn:** *(Add your LinkedIn profile link)*  
+🔗 **LinkedIn:** https://www.linkedin.com/in/abhishekkumar430
 
 ---
 
