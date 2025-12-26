@@ -75,7 +75,6 @@ Global-Sales-Market-Performance-Dashboard/
 
 
 ---
-
 ## 🖼 Dashboard Preview
 
 ![Dashboard View 1](Total_Sale.png)
